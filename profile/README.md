@@ -1,4 +1,6 @@
 # Bem-vindo a Toolbox DevOps☁️!
+![ToolboxDevOps](https://github.com/toolboxcompany/.github/blob/main/profile/image/pixel-art-4-1-nbg.png)
+
 Não somos apenas uma empresa qualquer; Nossa paixão é sobre compartilhar, ajudar nossos clientes a prosperar no mundo da Cloud, SRE e DevOps.
 
 We're not just any company; Our passion? It's all about sharing, helping, and helping our customers thrive in the world of Cloud, SRE, and DevOps.
@@ -21,3 +23,4 @@ Ready to embark on a Cloud, SRE, and DevOps adventure with us? Here's how you ca
 
 Junte-se a nós nesta emocionante jornada às nuvens! 🚀
 Join us on this exciting journey to the clouds! 🚀
+
